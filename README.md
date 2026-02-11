@@ -11,7 +11,7 @@
 ## 🚀 One Command — 10 Seconds
 
 ```bash
-git clone https://github.com/yourusername/near-tee-demo
+git clone https://github.com/fabiogg2/near-tee-demo
 cd near-tee-demo
 python3 demo.py
 """
